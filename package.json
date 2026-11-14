@@ -1,0 +1,10 @@
+{
+  "name": "top-fight-zone-server",
+  "version": "1.0.0",
+  "description": "Accounts, leaderboard and live multiplayer rooms for Top Fight Zone 3D (no dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
